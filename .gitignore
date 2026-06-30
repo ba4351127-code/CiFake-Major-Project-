@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Dataset
+train/
+test/
+
+# Outputs
+outputs/
+.gradio/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Checkpoints (optional)
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
